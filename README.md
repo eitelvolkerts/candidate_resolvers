@@ -5,3 +5,6 @@
 4. It is desirable to upload Foundry tests (in the test folder) so that we (and you!) can ensure your contracts are written correctly in a simpler fashion.
 5. Create a pull request. If I am sluggish to review it, tag me in the testnet chat (@euler2718)
 6. Enjoy!
+
+NB!
+It may be prudent to write and discuss the idea first so that no labour is wasted :)
