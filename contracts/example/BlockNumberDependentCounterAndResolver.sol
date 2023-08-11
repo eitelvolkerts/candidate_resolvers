@@ -1,6 +1,6 @@
 pragma solidity ^0.8.0;
 
-import "@openzeppelin/contracts/access/Ownable.sol";
+import "../../lib/openzeppelin-contracts/contracts/access/Ownable.sol";
 
 contract BlockNumberDependentCounter is Ownable{
     string public name;
